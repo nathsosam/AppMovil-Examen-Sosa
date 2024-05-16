@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Projects\\Examen\\MauiApp-Examen-SosaGeraldyne\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{179AD335-0FEA-49C9-92EF-265256D61E3C}|ConsumeAPI\\ConsumeAPI.csproj|d:\\visual projects\\examen\\mauiapp-examen-sosageraldyne\\consumeapi\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{179AD335-0FEA-49C9-92EF-265256D61E3C}|ConsumeAPI\\ConsumeAPI.csproj|solutionrelative:consumeapi\\crud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CA14F2-CB13-4B33-BC97-23390537FA3E}|MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne.csproj|d:\\visual projects\\examen\\mauiapp-examen-sosageraldyne\\mauiapp-examen-sosageraldyne\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CA14F2-CB13-4B33-BC97-23390537FA3E}|MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne.csproj|solutionrelative:mauiapp-examen-sosageraldyne\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CA14F2-CB13-4B33-BC97-23390537FA3E}|MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne.csproj|d:\\visual projects\\examen\\mauiapp-examen-sosageraldyne\\mauiapp-examen-sosageraldyne\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40CA14F2-CB13-4B33-BC97-23390537FA3E}|MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne.csproj|solutionrelative:mauiapp-examen-sosageraldyne\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CA14F2-CB13-4B33-BC97-23390537FA3E}|MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne.csproj|d:\\visual projects\\examen\\mauiapp-examen-sosageraldyne\\mauiapp-examen-sosageraldyne\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40CA14F2-CB13-4B33-BC97-23390537FA3E}|MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne.csproj|solutionrelative:mauiapp-examen-sosageraldyne\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CA14F2-CB13-4B33-BC97-23390537FA3E}|MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne.csproj|d:\\visual projects\\examen\\mauiapp-examen-sosageraldyne\\mauiapp-examen-sosageraldyne\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CA14F2-CB13-4B33-BC97-23390537FA3E}|MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne.csproj|solutionrelative:mauiapp-examen-sosageraldyne\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CA14F2-CB13-4B33-BC97-23390537FA3E}|MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne.csproj|d:\\visual projects\\examen\\mauiapp-examen-sosageraldyne\\mauiapp-examen-sosageraldyne\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CA14F2-CB13-4B33-BC97-23390537FA3E}|MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne.csproj|solutionrelative:mauiapp-examen-sosageraldyne\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40CA14F2-CB13-4B33-BC97-23390537FA3E}|MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne.csproj|d:\\visual projects\\examen\\mauiapp-examen-sosageraldyne\\mauiapp-examen-sosageraldyne\\models\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40CA14F2-CB13-4B33-BC97-23390537FA3E}|MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne.csproj|solutionrelative:mauiapp-examen-sosageraldyne\\models\\grupo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "D:\\Visual Projects\\Examen\\MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp-Examen-SosaGeraldyne\\Page1.xaml.cs",
+              "ToolTip": "D:\\Visual Projects\\Examen\\MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne\\Page1.xaml.cs",
+              "RelativeToolTip": "MauiApp-Examen-SosaGeraldyne\\Page1.xaml.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:08:39.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "D:\\Visual Projects\\Examen\\MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne\\Page1.xaml",
+              "RelativeDocumentMoniker": "MauiApp-Examen-SosaGeraldyne\\Page1.xaml",
+              "ToolTip": "D:\\Visual Projects\\Examen\\MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne\\Page1.xaml",
+              "RelativeToolTip": "MauiApp-Examen-SosaGeraldyne\\Page1.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T17:08:33.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "D:\\Visual Projects\\Examen\\MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MauiApp-Examen-SosaGeraldyne\\MainPage.xaml",
+              "ToolTip": "D:\\Visual Projects\\Examen\\MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne\\MainPage.xaml",
+              "RelativeToolTip": "MauiApp-Examen-SosaGeraldyne\\MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-16T17:07:23.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "D:\\Visual Projects\\Examen\\MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MauiApp-Examen-SosaGeraldyne\\MainPage.xaml.cs",
+              "ToolTip": "D:\\Visual Projects\\Examen\\MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne\\MainPage.xaml.cs",
+              "RelativeToolTip": "MauiApp-Examen-SosaGeraldyne\\MainPage.xaml.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:05:20.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Grupo.cs",
+              "DocumentMoniker": "D:\\Visual Projects\\Examen\\MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne\\Models\\Grupo.cs",
+              "RelativeDocumentMoniker": "MauiApp-Examen-SosaGeraldyne\\Models\\Grupo.cs",
+              "ToolTip": "D:\\Visual Projects\\Examen\\MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne\\Models\\Grupo.cs",
+              "RelativeToolTip": "MauiApp-Examen-SosaGeraldyne\\Models\\Grupo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:57:25.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "D:\\Visual Projects\\Examen\\MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "MauiApp-Examen-SosaGeraldyne\\Models\\Animal.cs",
+              "ToolTip": "D:\\Visual Projects\\Examen\\MauiApp-Examen-SosaGeraldyne\\MauiApp-Examen-SosaGeraldyne\\Models\\Animal.cs",
+              "RelativeToolTip": "MauiApp-Examen-SosaGeraldyne\\Models\\Animal.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:57:08.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Crud.cs",
+              "DocumentMoniker": "D:\\Visual Projects\\Examen\\MauiApp-Examen-SosaGeraldyne\\ConsumeAPI\\Crud.cs",
+              "RelativeDocumentMoniker": "ConsumeAPI\\Crud.cs",
+              "ToolTip": "D:\\Visual Projects\\Examen\\MauiApp-Examen-SosaGeraldyne\\ConsumeAPI\\Crud.cs",
+              "RelativeToolTip": "ConsumeAPI\\Crud.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAhwDIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:34:32.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

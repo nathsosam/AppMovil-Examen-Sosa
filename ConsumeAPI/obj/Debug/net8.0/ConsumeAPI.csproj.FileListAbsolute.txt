@@ -1,0 +1,12 @@
+D:\Visual Projects\Examen\MauiApp-Examen-SosaGeraldyne\ConsumeAPI\bin\Debug\net8.0\ConsumeAPI.deps.json
+D:\Visual Projects\Examen\MauiApp-Examen-SosaGeraldyne\ConsumeAPI\bin\Debug\net8.0\ConsumeAPI.dll
+D:\Visual Projects\Examen\MauiApp-Examen-SosaGeraldyne\ConsumeAPI\bin\Debug\net8.0\ConsumeAPI.pdb
+D:\Visual Projects\Examen\MauiApp-Examen-SosaGeraldyne\ConsumeAPI\obj\Debug\net8.0\ConsumeAPI.csproj.AssemblyReference.cache
+D:\Visual Projects\Examen\MauiApp-Examen-SosaGeraldyne\ConsumeAPI\obj\Debug\net8.0\ConsumeAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Projects\Examen\MauiApp-Examen-SosaGeraldyne\ConsumeAPI\obj\Debug\net8.0\ConsumeAPI.AssemblyInfoInputs.cache
+D:\Visual Projects\Examen\MauiApp-Examen-SosaGeraldyne\ConsumeAPI\obj\Debug\net8.0\ConsumeAPI.AssemblyInfo.cs
+D:\Visual Projects\Examen\MauiApp-Examen-SosaGeraldyne\ConsumeAPI\obj\Debug\net8.0\ConsumeAPI.csproj.CoreCompileInputs.cache
+D:\Visual Projects\Examen\MauiApp-Examen-SosaGeraldyne\ConsumeAPI\obj\Debug\net8.0\ConsumeAPI.dll
+D:\Visual Projects\Examen\MauiApp-Examen-SosaGeraldyne\ConsumeAPI\obj\Debug\net8.0\refint\ConsumeAPI.dll
+D:\Visual Projects\Examen\MauiApp-Examen-SosaGeraldyne\ConsumeAPI\obj\Debug\net8.0\ConsumeAPI.pdb
+D:\Visual Projects\Examen\MauiApp-Examen-SosaGeraldyne\ConsumeAPI\obj\Debug\net8.0\ref\ConsumeAPI.dll

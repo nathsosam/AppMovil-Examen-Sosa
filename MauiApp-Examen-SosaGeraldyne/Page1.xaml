@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MauiApp_Examen_SosaGeraldyne.Page1"
+             Title="Gestión de Animales"
+             BackgroundColor="#F0F0F0">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="30,10"
+            Spacing="15"
+            VerticalOptions="Center"
+            HorizontalOptions="FillAndExpand">
+
+            <Frame BackgroundColor="#FFFFFF" 
+                   CornerRadius="20"
+                   Padding="20"
+                   Margin="10">
+                <StackLayout Spacing="10">
+
+                    <Label Text="Id del animal:"
+                           FontAttributes="Bold"
+                           FontSize="Medium"/>
+                    <Entry x:Name="txtId"
+                           Placeholder="Introduce el ID del animal"
+                           FontSize="Small"
+                           Margin="0,0,0,10"/>
+
+                    <Label Text="Nombre del animal:"
+                           FontAttributes="Bold"
+                           FontSize="Medium"/>
+                    <Entry x:Name="txtNombre"
+                           Placeholder="Nombre del animal"
+                           FontSize="Small"
+                           Margin="0,0,0,10"/>
+
+                    <Label Text="Descripción:"
+                           FontAttributes="Bold"
+                           FontSize="Medium"/>
+                    <Entry x:Name="txtDescripcion"
+                           Placeholder="Descripción del animal"
+                           FontSize="Small"
+                           Margin="0,0,0,10"/>
+
+                    <Label Text="Grupo Id:"
+                           FontAttributes="Bold"
+                           FontSize="Medium"/>
+                    <Entry x:Name="txtGrupoId"
+                           Placeholder="ID del grupo"
+                           FontSize="Small"
+                           Margin="0,0,0,20"/>
+
+                    <Button x:Name="cmdCreate"
+                            Text="INSERTAR"
+                            BackgroundColor="#4CAF50"
+                            TextColor="White"
+                            Margin="5"
+                            FontAttributes="Bold"
+                            CornerRadius="10"
+                            Clicked="cmdCreate_Clicked"/>
+                    <Button x:Name="cmdRead"
+                            Text="LEER"
+                            BackgroundColor="#2196F3"
+                            TextColor="White"
+                            Margin="5"
+                            FontAttributes="Bold"
+                            CornerRadius="10"
+                            Clicked="cmdRead_Clicked"/>
+                    <Button x:Name="cmdUpdate"
+                            Text="ACTUALIZAR"
+                            BackgroundColor="#FFC107"
+                            TextColor="White"
+                            Margin="5"
+                            FontAttributes="Bold"
+                            CornerRadius="10"
+                            Clicked="cmdUpdate_Clicked"/>
+                    <Button x:Name="cmdDelete"
+                            Text="BORRAR"
+                            BackgroundColor="#F44336"
+                            TextColor="White"
+                            Margin="5"
+                            FontAttributes="Bold"
+                            CornerRadius="10"
+                            Clicked="cmdDelete_Clicked"/>
+
+                    <Button x:Name="cmdNext"
+                            Text="Regresar"
+                            BackgroundColor="#9E9E9E"
+                            TextColor="White"
+                            Margin="5"
+                            FontAttributes="Bold"
+                            CornerRadius="10"
+                            Clicked="cmdNextClicked"/>
+
+                </StackLayout>
+            </Frame>
+        </VerticalStackLayout>
+    </ScrollView>
+</ContentPage>
